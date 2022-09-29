@@ -5,4 +5,26 @@
       "password": "1234"
     }
   ]
+  "posts": [
+    {
+      "author": "Leanne Graham",
+      "company": "Romaguera-Crona",
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "author": "Leanne Grah",
+      "company": "Romaguera",
+      "title": "sunt aut f excepturi optio reprehenderit"
+    },
+    {
+      "author": "Le Graham",
+      "company": "Crona",
+      "title": "provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "author": "Leanne Graham123",
+      "company": "Romaguera-Crona12",
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+  ]
 }
