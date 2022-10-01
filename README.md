@@ -19,8 +19,6 @@
 
 * Установить зависимости:
   * `yarn install`
-  * Для iOS: `cd ios && pod install &&`
-
 
 * Запустить сборку
   * EXPO: `npx expo start`
